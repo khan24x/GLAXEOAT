@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @GLAXEOAT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GLAXEOAT/GLAXEOAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+-🚀 Web3 Enthusiast | Blockchain Believer
+🧠 Exploring DeFi, NFTs, DAOs & Metavers
+🔗 Building decentralized futures
+💎 HODL | DYOR | GM 🌞
